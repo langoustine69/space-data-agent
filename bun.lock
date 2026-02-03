@@ -7,7 +7,7 @@
       "dependencies": {
         "@lucid-agents/analytics": "latest",
         "@lucid-agents/core": "latest",
-        "@lucid-agents/hono": "latest",
+        "@lucid-agents/hono": "0.7.20",
         "@lucid-agents/http": "latest",
         "@lucid-agents/payments": "latest",
         "hono": "^4.0.0",
